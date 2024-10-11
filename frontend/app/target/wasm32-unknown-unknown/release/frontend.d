@@ -1,0 +1,1 @@
+C:\Users\lucaw\Documents\programming\simulations\atomic_simulation\atomic_simulation\frontend\app\target\wasm32-unknown-unknown\release\frontend.wasm: C:\Users\lucaw\Documents\programming\simulations\atomic_simulation\atomic_simulation\frontend\app\src\lib.rs

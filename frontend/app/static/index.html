@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Atomic Simulation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- You can add additional metadata or links here -->
+</head>
+<body>
+    <!-- The root div where the Yew app will mount -->
+    <div id="root"></div>
+
+    <!-- Load the Trunk-generated JavaScript to initialize the WASM module -->
+    <script type="module">
+        import init from './pkg/frontend.js';
+        init();
+    </script>
+</body>
+</html>
